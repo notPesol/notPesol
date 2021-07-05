@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @notPesol
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @notPesol | Pesol Maiyawut .
+- 👀 I’m interested in Web Developer etc.
+- 🌱 I’m currently learning Node.js Express.js JavaScript MongoDB etc.
+- 💞️ I’m looking to collaborate on Web development organization.
+- 📫 How to reach me ... pesol2012@hotmail.com | (+66) 080-547-6598 .
 
 <!---
 notPesol/notPesol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
