@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @notPesol | Pesol Maiyawut .
 - 👀 I’m interested in Web Developer etc.
 - 🌱 I’m currently learning Node.js Express.js JavaScript MongoDB etc.
-- 💞️ I’m looking to collaborate on Web development organization.
+- 💞️ I’m looking to collaborate on Program and Web development organization.
 - 📫 How to reach me ... pesol2012@hotmail.com | (+66) 080-547-6598 .
 
 <!---
