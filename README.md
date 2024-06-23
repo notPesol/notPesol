@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @notPesol | Pesol Maiyawut .
 - 👀 I’m interested in Programmer, Web Developer etc.
-- 🌱 I’m currently learning ReactJs NestJs Node.js Express.js TypeScript JavaScript SQL Sequelize etc.
+- 🌱 Skills: ReactJs VueJs, NestJs Node.js Express.js TypeScript JavaScript SQL Sequelize etc.
 - 💞️ I’m looking to collaborate on Program and Web development organization.
 - 📫 How to reach me ... pesol2012@gmail.com | (+66) 080-547-6598 .
 
